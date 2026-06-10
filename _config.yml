@@ -52,3 +52,5 @@ exclude:
   - minimal-light.gemspec
   - LICENSE
   - html_source_file/
+  - vendor/
+  - .bundle/
