@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-From 2019 to 2023, I studied at the **College of Computer Science and Technology,
+I am **Pihai (Percy) Sun** (孙丕海). From 2019 to 2023, I studied at the **College of Computer Science and Technology,
 Qingdao University**, where I received my B.Eng. degree. Since 2023, I have been pursuing
 an M.S. degree in **Electronic Information (Computer Technology)** at the **Faculty of
 Computing, Harbin Institute of Technology (HIT)**, advised by
