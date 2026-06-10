@@ -19,7 +19,6 @@ automatically built and deployed by GitHub Pages.
 | `_data/publications.yml` | Publication list (edit this to add papers) |
 | `_includes/services.md` | Academic services (optional) |
 | `assets/img/avatar.jpg` | Profile photo |
-| `assets/files/Pihai_Sun_CV.pdf` | CV (PDF) |
 
 ## How to update
 
