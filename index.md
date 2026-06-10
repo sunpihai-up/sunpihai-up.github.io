@@ -4,19 +4,27 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a M.S. student at **Harbin Institute of Technology (HIT)**. My research lies in
+**computer vision** and **robot perception**, with a focus on **monocular depth estimation**,
+**event-based vision**, and **multimodal (image–event) fusion** for robust perception under
+challenging conditions. More recently, I have also been working on perception for
+**embodied AI and humanoid robots**.
+
+<!-- TODO: feel free to add a sentence about your advisor / lab, e.g.
+"I am fortunate to be advised by Prof. XXX in the YYY Lab." -->
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Depth Estimation:** monocular depth estimation, depth super-resolution and restoration
+- **Event-based Vision:** event cameras, image–event fusion, degradation-robust perception
+- **Embodied AI:** multimodal occupancy perception and depth-based locomotion for humanoid robots
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[2026]** Three preprints on humanoid robot perception (RobotPan, Heracles, MeshMimic) are released.
+- **[2025]** Our paper **FUSE** is accepted to **IROS 2025**.
+- **[2025]** Participated in the **TRICKY 2025 Challenge** (ICCV 2025 Workshops).
+- **[2024]** Co-authored **The Third Monocular Depth Estimation Challenge** (CVPR 2024 Workshops).
 
 {% include_relative _includes/publications.md %}
 
