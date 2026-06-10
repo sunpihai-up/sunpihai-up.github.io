@@ -24,12 +24,17 @@ challenging conditions. More recently, I have also been working on perception fo
 - **[2026]** Three preprints on humanoid robot perception (RobotPan, Heracles, MeshMimic) are released.
 - **[2025]** Our paper **FUSE** is accepted to **IROS 2025**.
 - **[2025]** Participated in the **TRICKY 2025 Challenge** (ICCV 2025 Workshops).
-- **[2024]** Co-authored **The Third Monocular Depth Estimation Challenge** (CVPR 2024 Workshops).
 
 ## Honors and Awards
 
-- **2nd Place**, Compressed Depth Map Super-Resolution and Restoration Challenge, **AIM 2024 Workshop, ECCV 2024**. Associated paper: *Compressed Depth Map Super-Resolution and Restoration: AIM 2024 Challenge Results*, Computer Vision -- ECCV 2024 Workshops, Springer, 2025, pp. 287-303.
-- **2nd Place**, Monocular Depth from Images of Specular and Transparent Surfaces Challenge, **TRICKY 2025 Workshop, ICCV 2025**. Associated paper: *TRICKY 2025 Challenge on Monocular Depth from Images of Specular and Transparent Surfaces*, Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops, 2025, pp. 3311-3322.
+### Academic Awards
+
+- **Harbin Institute of Technology Special Academic Scholarship**.
+
+### Challenge Awards
+
+- <span style="color:#e74d3c;font-weight:700;">2nd Place</span>, Compressed Depth Map Super-Resolution and Restoration Challenge, **AIM 2024 Workshop, ECCV 2024**. Associated paper: *Compressed Depth Map Super-Resolution and Restoration: AIM 2024 Challenge Results*, Computer Vision -- ECCV 2024 Workshops, Springer, 2025, pp. 287-303.
+- <span style="color:#e74d3c;font-weight:700;">2nd Place</span>, Monocular Depth from Images of Specular and Transparent Surfaces Challenge, **TRICKY 2025 Workshop, ICCV 2025**. Associated paper: *TRICKY 2025 Challenge on Monocular Depth from Images of Specular and Transparent Surfaces*, Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops, 2025, pp. 3311-3322.
 
 {% include_relative _includes/publications.md %}
 
