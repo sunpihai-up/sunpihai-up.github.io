@@ -1,9 +1,6 @@
 <!--
-  This is an OPTIONAL "Services" section.
-  - If you have reviewing / teaching / volunteer experience, fill it in below.
-  - If you don't need it yet, just delete the line
-        {% include_relative _includes/services.md %}
-    from index.md, or leave this file empty.
+  Optional Services section.
+  To hide it, remove the services include from index.md or leave this file empty.
 -->
 
 ## Services
