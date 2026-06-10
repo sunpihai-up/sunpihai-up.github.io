@@ -4,6 +4,12 @@
 
 main:
 
+  - title: "SOLO: Stable Omni-terrain Long-Horizon Perceptive Humanoid Locomotion"
+    authors: <strong>Pihai Sun</strong>, et al.
+    conference_short: Under Review
+    conference: Under Review, 2026.
+    image: ./assets/img/publications/solo_thumb.png
+
   - title: "RobotPan: A 360° Surround-View Robotic Vision System for Embodied Perception"
     authors: Jiahao Ma, Qiang Zhang, Peiran Liu, Zeran Su, <strong>Pihai Sun</strong>, Gang Han, ..., et al.
     conference_short: arXiv
