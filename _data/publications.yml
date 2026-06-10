@@ -25,13 +25,12 @@ main:
     image: ./assets/img/publications/meshmimic_thumb.png
     pdf: https://arxiv.org/abs/2602.15733
 
-  - title: "FUSE: Label-Free Image-Event Joint Monocular Depth Estimation via Frequency-Decoupled Alignment and Degradation-Robust Fusion"
-    authors: <strong>Pihai Sun</strong>, Junjun Jiang, Yuanqi Yao, Youyu Chen, Wenbo Zhao, Kui Jiang, Xianming Liu
-    conference_short: IROS
-    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2025.
-    image: ./assets/img/publications/fuse_thumb.png
-    pdf: https://arxiv.org/abs/2503.19739
-    # code: https://github.com/sunpihai/FUSE   # TODO: add the real code link if available
+  - title: "DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction"
+    authors: Jingkai Sun, Gang Han, <strong>Pihai Sun</strong>, Wen Zhao, Jiahang Cao, Jiaxu Wang, Yijie Guo, Qiang Zhang
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2510.07152, 2025.
+    image: ./assets/img/publications/dpl_thumb.png
+    pdf: https://arxiv.org/abs/2510.07152
 
   - title: "TRICKY 2025 Challenge on Monocular Depth from Images of Specular and Transparent Surfaces"
     authors: Pierluigi Zama Ramirez, Alex Costanzino, Fabio Tosi, Matteo Poggi, Luigi Di Stefano, ..., <strong>Pihai Sun</strong>, et al.
@@ -40,19 +39,20 @@ main:
     image: ./assets/img/publications/tricky2025_thumb.png
     pdf: https://openaccess.thecvf.com/content/ICCV2025W/TRICKY/papers/Ramirez_TRICKY_2025_Challenge_on_Monocular_Depth_from_Images_of_Specular_ICCVW_2025_paper.pdf
 
+  - title: "FUSE: Label-Free Image-Event Joint Monocular Depth Estimation via Frequency-Decoupled Alignment and Degradation-Robust Fusion"
+    authors: <strong>Pihai Sun</strong>, Junjun Jiang, Yuanqi Yao, Youyu Chen, Wenbo Zhao, Kui Jiang, Xianming Liu
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2025.
+    image: ./assets/img/publications/fuse_thumb.png
+    pdf: https://arxiv.org/abs/2503.19739
+    # code: https://github.com/sunpihai/FUSE   # TODO: add the real code link if available
+
   - title: "Humanoid Occupancy: Enabling a Generalized Multimodal Occupancy Perception System on Humanoid Robots"
     authors: Wei Cui, Haoyu Wang, Wenkang Qin, Yijie Guo, Gang Han, Wen Zhao, Jiahang Cao, ..., <strong>Pihai Sun</strong>, et al.
     conference_short: arXiv
     conference: arXiv preprint arXiv:2507.20217, 2025.
     image: ./assets/img/publications/humanoid_occ_thumb.png
     pdf: https://arxiv.org/abs/2507.20217
-
-  - title: "DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction"
-    authors: Jingkai Sun, Gang Han, <strong>Pihai Sun</strong>, Wen Zhao, Jiahang Cao, Jiaxu Wang, Yijie Guo, Qiang Zhang
-    conference_short: arXiv
-    conference: arXiv preprint arXiv:2510.07152, 2025.
-    image: ./assets/img/publications/dpl_thumb.png
-    pdf: https://arxiv.org/abs/2510.07152
 
   - title: "Compressed Depth Map Super-Resolution and Restoration: AIM 2024 Challenge Results"
     authors: Marcos V. Conde, Florin-Alexandru Vasluianu, Jinhui Xiong, Wei Ye, Rakesh Ranjan, Radu Timofte, ..., <strong>Pihai Sun</strong>, et al.
@@ -61,20 +61,23 @@ main:
     image: ./assets/img/publications/aim2024_thumb.png
     pdf: https://link.springer.com/chapter/10.1007/978-3-031-91856-8_17
 
-  - title: "The Third Monocular Depth Estimation Challenge"
-    authors: Jaime Spencer, Fabio Tosi, Matteo Poggi, Ripudaman Singh Arora, Chris Russell, ..., <strong>Pihai Sun</strong>, et al.
-    conference_short: CVPRW
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops <strong>(CVPRW)</strong>, 2024.
-    pdf: https://arxiv.org/abs/2404.16831
-
   - title: "TRICKY 2024 Challenge on Monocular Depth from Images of Specular and Transparent Surfaces"
     authors: Pierluigi Zama Ramirez, Alex Costanzino, Fabio Tosi, Matteo Poggi, Luigi Di Stefano, ..., <strong>Pihai Sun</strong>, et al.
     conference_short: ECCVW
     conference: European Conference on Computer Vision Workshops <strong>(ECCVW)</strong>, 2024.
+    image: ./assets/img/publications/tricky2024_thumb.png
     pdf: https://doi.org/10.1007/978-3-031-91569-7_16
+
+  - title: "The Third Monocular Depth Estimation Challenge"
+    authors: Jaime Spencer, Fabio Tosi, Matteo Poggi, Ripudaman Singh Arora, Chris Russell, ..., <strong>Pihai Sun</strong>, et al.
+    conference_short: CVPRW
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops <strong>(CVPRW)</strong>, 2024.
+    image: ./assets/img/publications/third_monocular_depth_thumb.png
+    pdf: https://arxiv.org/abs/2404.16831
 
   - title: "FuseLGNet: Fusion of Local and Global Information for Detection of Parkinson's Disease"
     authors: Ming Chen, Tao Ren, <strong>Pihai Sun</strong>, Jianfei Wu, Jinfeng Zhang, Aite Zhao
     conference_short: Information
     conference: <em>Information</em>, MDPI, vol. 14, no. 2, 2023.
+    image: ./assets/img/publications/fuselgnet_thumb.png
     pdf: https://www.mdpi.com/2078-2489/14/2/119
