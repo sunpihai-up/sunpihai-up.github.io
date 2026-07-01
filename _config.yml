@@ -2,13 +2,33 @@
 title: Pihai Sun
 position: M.S. Student
 affiliation: Harbin Institute of Technology
+affiliation_link: https://en.hit.edu.cn/
 email: sunpihai@foxmail.com
+lang: en-US
+
+# Public site URL. Jekyll uses these values to generate absolute canonical,
+# Open Graph, structured-data, and sitemap URLs.
+url: https://sunpihai-up.github.io
+baseurl: ""
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Pihai Sun, monocular depth estimation, event camera, event-based vision, multimodal fusion, computer vision, Harbin Institute of Technology
 description: Homepage of Pihai Sun, a M.S. student at Harbin Institute of Technology working on monocular depth estimation, event cameras, and image-event multimodal fusion.
 canonical: https://sunpihai-up.github.io/
+
+# Jekyll plugins (bundled with the github-pages gem). jekyll-sitemap auto-
+# generates /sitemap.xml so search engines can discover all pages.
+plugins:
+  - jekyll-sitemap
+
+# Keep the remote theme's sample CV out of the public sitemap. The actual
+# resume.pdf at the site root remains discoverable.
+defaults:
+  - scope:
+      path: assets/files/curriculum_vitae.pdf
+    values:
+      sitemap: false
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
@@ -52,5 +72,6 @@ exclude:
   - minimal-light.gemspec
   - LICENSE
   - html_source_file/
+  - tmp/
   - vendor/
   - .bundle/
