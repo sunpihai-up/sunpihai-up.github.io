@@ -5,10 +5,12 @@
 main:
 
   - title: "SOLO: Stable Omni-terrain Long-Horizon Perceptive Humanoid Locomotion"
-    authors: <strong>Pihai Sun</strong>, et al.
-    conference_short: Under Review
-    conference: Under Review, 2026.
-    image: ./assets/img/publications/solo_thumb.png
+    authors: <strong>Pihai Sun</strong>*, Gang Han*, Jingkai Sun*, Jiahao Ma, Zeran Su, Zelin Tao, Peiran Liu, Shuai Shi, Wei Cui, Zifan Wang, Jialin Yu, Wen Zhao, Kangning Yin, Jiaxu Wang, Jiahang Cao, Lingfeng Zhang, Hao Cheng, Jian Tang, Yijie Guo, Qiang Zhang†
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2608.26583, 2026. (* Equal contribution; † Corresponding author)
+    image: ./assets/img/publications/cover2.png
+    pdf: https://arxiv.org/abs/2608.26583
+    page: https://sunpihai-up.github.io/solo/
 
   - title: "RobotPan: A 360° Surround-View Robotic Vision System for Embodied Perception"
     authors: Jiahao Ma, Qiang Zhang, Peiran Liu, Zeran Su, <strong>Pihai Sun</strong>, Gang Han, ..., et al.

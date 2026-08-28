@@ -31,6 +31,8 @@ occupancy representations, and use these signals for closed-loop locomotion and 
 
 ## News
 
+- **[2026]** At the **World Humanoid Robot Games**, Tiangong Omni robots powered by our perceptive-locomotion technology won <span style="color:#e74d3c;font-weight:700;">gold and bronze in the 400 m obstacle course</span> and <span style="color:#e74d3c;font-weight:700;">silver in the 100 m obstacle course</span>.
+- **[2026]** At the **World Robot Conference (WRC 2026)**, Tiangong Omni publicly demonstrated our perceptive-locomotion technology by traversing <span style="color:#e74d3c;font-weight:700;">stepping stones and stairs</span> in front of a live audience.
 - **[2026]** We released <span style="color:#e74d3c;font-weight:700;">Omni</span>, a breakthrough humanoid robot platform for robust perceptive locomotion. I developed its <span style="color:#e74d3c;font-weight:700;">perceptive-locomotion capability</span>, enabling <span style="color:#e74d3c;font-weight:700;">15-minute stable walking</span> in randomized urban scenes, <span style="color:#e74d3c;font-weight:700;">one-shot ascent of 17 indoor fire-stair floors</span>, and robust traversal of compound terrain.
 - **[2026]** The group standard <span style="color:#e74d3c;font-weight:700;">T/CAMETA 001112-2026</span>, *Evaluation Specification for Image and Graphics Intelligence of Embodied Intelligent Robots*, to which I contributed, was released by the **China Mechatronics Technology Application Association**.
 - **[2026]** Three preprints on humanoid robot perception (<span style="color:#e74d3c;font-weight:700;">RobotPan</span>, <span style="color:#e74d3c;font-weight:700;">Heracles</span>, <span style="color:#e74d3c;font-weight:700;">MeshMimic</span>) are released.
