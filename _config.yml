@@ -1,8 +1,8 @@
 # Basic Information
 title: Pihai Sun
-position: M.S. Student
-affiliation: Harbin Institute of Technology
-affiliation_link: https://en.hit.edu.cn/
+position: Ph.D. Student
+affiliation: University of Science and Technology of China
+affiliation_link: https://en.ustc.edu.cn/
 email: sunpihai@foxmail.com
 lang: en-US
 
@@ -13,8 +13,8 @@ baseurl: ""
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Pihai Sun, monocular depth estimation, event camera, event-based vision, multimodal fusion, computer vision, Harbin Institute of Technology
-description: Homepage of Pihai Sun, a M.S. student at Harbin Institute of Technology working on monocular depth estimation, event cameras, and image-event multimodal fusion.
+keywords: Pihai Sun, robust 3D perception, embodied AI, humanoid robotics, perceptive locomotion, computer vision, University of Science and Technology of China
+description: Homepage of Pihai Sun, a Ph.D. student at the University of Science and Technology of China working on robust 3D perception, embodied AI, and perceptive humanoid locomotion.
 canonical: https://sunpihai-up.github.io/
 
 # Jekyll plugins (bundled with the github-pages gem). jekyll-sitemap auto-

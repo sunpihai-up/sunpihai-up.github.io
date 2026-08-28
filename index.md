@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am **Pihai (Percy) Sun** (孙丕海). From 2019 to 2023, I studied at the **College of Computer Science and Technology,
-Qingdao University**, where I received my B.Eng. degree. Since 2023, I have been pursuing
-an M.S. degree in **Electronic Information (Computer Technology)** at the **Faculty of
-Computing, Harbin Institute of Technology (HIT)**, advised by
+I am **Pihai (Percy) Sun** (孙丕海), a Ph.D. student at the **University of Science and
+Technology of China (USTC)**. From 2019 to 2023, I studied at the **College of Computer Science
+and Technology, Qingdao University**, where I received my B.Eng. degree. From 2023 to 2026,
+I studied **Electronic Information (Computer Technology)** at the **Faculty of Computing,
+Harbin Institute of Technology (HIT)**, where I received my M.S. degree under the supervision of
 [Prof. Junjun Jiang](https://scholar.google.com/citations?user=WNH2_rgAAAAJ&hl=en).
-I will graduate in **June 2026**.
 
 My research is centered on **robust 3D perception** and **embodied AI**. I work on reliable
 geometric and semantic understanding from multimodal or degraded observations, and on deploying

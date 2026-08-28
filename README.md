@@ -3,8 +3,8 @@
 Source code of my personal academic homepage:
 👉 **<https://sunpihai-up.github.io>**
 
-I am an M.S. student at Harbin Institute of Technology, working on monocular depth
-estimation, event-based vision, and image–event multimodal fusion.
+I am a Ph.D. student at the University of Science and Technology of China, working on
+robust 3D perception, embodied AI, and perceptive humanoid locomotion.
 
 The site is a [Jekyll](https://jekyllrb.com/) website built on the
 [minimal-light](https://github.com/yaoyao-liu/minimal-light) theme and is
