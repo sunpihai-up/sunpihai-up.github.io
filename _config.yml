@@ -16,6 +16,7 @@ baseurl: ""
 keywords: Pihai Sun, robust 3D perception, embodied AI, humanoid robotics, perceptive locomotion, computer vision, University of Science and Technology of China
 description: Homepage of Pihai Sun, a Ph.D. student at the University of Science and Technology of China working on robust 3D perception, embodied AI, and perceptive humanoid locomotion.
 canonical: https://sunpihai-up.github.io/
+profile_created: 2026-06-10T23:00:27+08:00
 
 # Jekyll plugins (bundled with the github-pages gem). jekyll-sitemap auto-
 # generates /sitemap.xml so search engines can discover all pages.
@@ -29,10 +30,15 @@ defaults:
       path: assets/files/curriculum_vitae.pdf
     values:
       sitemap: false
+  - scope:
+      path: google86064b987c75aa03.html
+    values:
+      sitemap: false
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=Ny1WwOIAAAAJ&hl=zh-CN
+orcid: https://orcid.org/0009-0004-8637-1511
 cv_link: ./resume.pdf
 github_link: https://github.com/sunpihai-up
 # linkedin: https://www.linkedin.com/
