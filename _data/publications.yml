@@ -34,9 +34,9 @@ main:
     pdf: https://arxiv.org/abs/2602.15733
 
   - title: "DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction"
-    authors: Jingkai Sun, Gang Han, <strong>Pihai Sun</strong>, Wen Zhao, Jiahang Cao, Jiaxu Wang, Yijie Guo, Qiang Zhang
-    conference_short: arXiv
-    conference: arXiv preprint arXiv:2510.07152, 2025.
+    authors: Jingkai Sun*, Gang Han*, <strong>Pihai Sun</strong>*, Wen Zhao, Jiahang Cao, Jiaxu Wang, Yijie Guo, Qiang Zhang
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2026. (* Equal contribution)
     image: ./assets/img/publications/dpl_thumb.png
     pdf: https://arxiv.org/abs/2510.07152
 
