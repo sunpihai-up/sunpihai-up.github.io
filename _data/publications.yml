@@ -6,8 +6,8 @@ main:
 
   - title: "SOLO: Stable Omni-terrain Long-Horizon Perceptive Humanoid Locomotion"
     authors: <strong>Pihai Sun</strong>*, Gang Han*, Jingkai Sun*, Jiahao Ma, Zeran Su, Zelin Tao, Peiran Liu, Shuai Shi, Wei Cui, Zifan Wang, Jialin Yu, Wen Zhao, Kangning Yin, Jiaxu Wang, Jiahang Cao, Lingfeng Zhang, Hao Cheng, Jian Tang, Yijie Guo, Qiang Zhang†
-    conference_short: arXiv
-    conference: arXiv preprint arXiv:2608.26583, 2026. (* Equal contribution; † Corresponding author)
+    conference_short: CoRL
+    conference: Conference on Robot Learning <strong>(CoRL)</strong>, 2026. (* Equal contribution; † Corresponding author)
     image: ./assets/img/publications/cover2.png
     pdf: https://arxiv.org/abs/2608.26583
     page: https://sunpihai-up.github.io/solo/
@@ -28,8 +28,8 @@ main:
 
   - title: "MeshMimic: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction"
     authors: Qiang Zhang, Jiahao Ma, Peiran Liu, Shuai Shi, Zeran Su, Zifan Wang, Jingkai Sun, ..., <strong>Pihai Sun</strong>, et al.
-    conference_short: arXiv
-    conference: arXiv preprint arXiv:2602.15733, 2026.
+    conference_short: CoRL
+    conference: Conference on Robot Learning <strong>(CoRL)</strong>, 2026.
     image: ./assets/img/publications/meshmimic_thumb.png
     pdf: https://arxiv.org/abs/2602.15733
 
